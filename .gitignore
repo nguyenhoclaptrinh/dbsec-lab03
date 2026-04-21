@@ -1,0 +1,19 @@
+# Visual Studio / Editor
+.vscode/
+.vs/
+*.suo
+*.user
+
+# SQL Server
+*.bak
+*.trn
+*.mdf
+*.ldf
+*.ndf
+
+# Local Environment
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
